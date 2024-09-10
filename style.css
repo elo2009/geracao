@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(50, 94, 95);
+    color: whitesmoke;
+    text-align: center;
+}
+h1 {
+    font-size: 30px;
+}
+h2{
+    font-size: 25px;
+}
+p{
+    font-size: 20px;
+}
+nav a{
+    font-size: 20px;
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: bold;
+}
+div img{
+    border: dashed whitesmoke 5px;
+    border-radius: 50px;
+}
